@@ -1,4 +1,4 @@
-# Soroban Smart Contract Development (Made Simple!)
+# Soroban Smart Contract Development Essentials
 
 ## What is a Smart Contract? 🤔
 A **smart contract** is like a robot 🤖 that follows rules you write in code and runs on a **blockchain**. With **Soroban**, we can write smart contracts that work on the **Stellar blockchain**! 🌍✨
